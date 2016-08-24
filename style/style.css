@@ -8,3 +8,10 @@ h1{
 h2{
     font-size:30px;
 }
+
+#cookieMessage{
+	background: #007FC6;
+	margin-bottom:20px;
+	padding:20px;
+	border-radius: 10px;
+}
